@@ -5,16 +5,21 @@ app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
     //res.send("t")
-    execFile('./build.sh', function(error, stdout, stderr) {
+    try {
+        execFile('./build.sh', function(error, stdout, stderr) {
     
-        // Log success in some manner
-        console.log('exec complete', error, stdout, stderr);
-        res.json({
-        error: error,
-        stdout: stdout,
-        stderr: stderr
+            // Log success in some manner
+            console.log('exec complete', error, stdout, stderr);
+            res.json({
+            error: error,
+            stdout: stdout,
+            stderr: stderr
+            });
         });
-    });
+    } catch (error) {
+        console.log(error)
+    }
+    
 });
 
 app.post('/', function(req, res) {
