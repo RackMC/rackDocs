@@ -4,7 +4,17 @@ var app = express();
 app.set('view engine', 'jade');
 
 app.get('/', function(req, res) {
-    res.send("t")
+    //res.send("t")
+    execFile('./build.sh', function(error, stdout, stderr) {
+    
+        // Log success in some manner
+        console.log('exec complete', error, stdout, stderr);
+        res.json({
+        error: error,
+        stdout: stdout,
+        stderr: stderr
+        });
+    });
 });
 
 app.post('/', function(req, res) {
