@@ -23,16 +23,20 @@ app.get('/', function(req, res) {
 });
 
 app.post('/', function(req, res) {
-    execFile('build.sh', function(error, stdout, stderr) {
+    try {
+        execFile('./build.sh', function(error, stdout, stderr) {
     
-    // Log success in some manner
-    console.log('exec complete', error, stdout, stderr);
-    res.json({
-    error: error,
-    stdout: stdout,
-    stderr: stderr
-    });
-});
+            // Log success in some manner
+            console.log('exec complete', error, stdout, stderr);
+            res.json({
+            error: error,
+            stdout: stdout,
+            stderr: stderr
+            });
+        });
+    } catch (error) {
+        console.log(error)
+    }
 });
 
 var server = app.listen(9000, function() {
