@@ -1,33 +1,21 @@
-# Website
+# RackMC Documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Welcome to the source code for the RackMC Server Network documentation! The live documentation can be found at https://docs.rackmc.net/. We have made this to help create a more intuitive experience on our servers. If you would like to contribute to the documentation, see below for more information.
 
-### Installation
+Documentation is powered by Docusaurus 2! (https://docusaurus.io/)
 
-```
-$ yarn
-```
+## Contributing to the Docs
 
-### Local Development
+Thank you for considering to contribute to the documentation! The entire documentation is written in markdown (.md), but...
 
-```
-$ yarn start
-```
+### Step 1: Fork the Repository
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+To fork the repository, click the "Fork" button i the top-right corner of this page.
 
-### Build
+![image](https://user-images.githubusercontent.com/71281742/140455082-98cfcd9c-c6c7-4a50-b79b-6275cf6d21be.png)
 
-```
-$ yarn build
-```
+Source: https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Step 2: Make Changes
 
-### Deployment
-
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### Step 3: Create a Pull Request
