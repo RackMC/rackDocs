@@ -8,4 +8,4 @@ slug: /factions-basics
 # Factions Basics
 
 ## Creating a Faction
-Step 1: F
+To create a faction, use /f create [factionname]
