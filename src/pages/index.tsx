@@ -58,34 +58,33 @@ function Space() {
           
         },
         fpsLimit: 60,
-        // interactivity: {
-        //   events: {
-        //     onClick: {
-        //       enable: true,
-        //       mode: "push",
-        //     },
-        //     onHover: {
-        //       enable: true,
-        //       mode: "repulse",
-        //     },
-        //     resize: true,
-        //   },
-        //   modes: {
-        //     bubble: {
-        //       distance: 400,
-        //       duration: 2,
-        //       opacity: 0.8,
-        //       size: 40,
-        //     },
-        //     push: {
-        //       quantity: 4,
-        //     },
-        //     repulse: {
-        //       distance: 200,
-        //       duration: 0.4,
-        //     },
-        //   },
-        // },
+        interactivity: {
+          events: {
+            onHover: {
+              enable: true,
+              mode: "connect",
+            },
+            resize: true,
+          },
+          modes: {
+            bubble: {
+              distance: 400,
+              duration: 2,
+              opacity: 0.1,
+              size: 15,
+            },
+            connect: {
+              radius: 200,
+              lineLinked: {
+                opacity: 0.08
+              },
+            },
+            repulse: {
+              distance: 100,
+              duration: 100,
+            },
+          },
+        },
         particles: {
           color: {
             value: "#53f8f8",
@@ -94,8 +93,8 @@ function Space() {
             color: "#ffffff",
             distance: 150,
             enable: true,
-            opacity: 1,
-            width: 0,
+            opacity: 0.05,
+            width: 0.09,
           },
           collisions: {
             enable: true,
