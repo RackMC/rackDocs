@@ -1,0 +1,236 @@
+/* =============================================================================
+   HTML5 CSS Reset Minified - Eric Meyer
+   ========================================================================== */
+
+   html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+   body{line-height:1}
+   article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+   nav ul{list-style:none}
+   blockquote,q{quotes:none}
+   blockquote:before,blockquote:after,q:before,q:after{content:none}
+   a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;text-decoration:none}
+   mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+   del{text-decoration:line-through}
+   abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+   table{border-collapse:collapse;border-spacing:0}
+   hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+   input,select{vertical-align:middle}
+   li{list-style:none}
+   
+   
+   /* =============================================================================
+      My CSS
+      ========================================================================== */
+   
+   /* ---- fonts ---- */
+   @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+ 
+   /* @group Blink */
+  .blink {
+  	-webkit-animation: blink .75s linear infinite;
+	  -moz-animation: blink .75s linear infinite;
+  	-ms-animation: blink .75s linear infinite;
+  	-o-animation: blink .75s linear infinite;
+     animation: blink .75s linear infinite;
+    display: inline-block;
+  }
+  @-webkit-keyframes blink {
+  	0% { opacity: 1; }
+  	50% { opacity: 1; }
+  	50.01% { opacity: 0; }
+  	100% { opacity: 0; }
+  }
+  @-moz-keyframes blink {
+  	0% { opacity: 1; }
+  	50% { opacity: 1; }
+  	50.01% { opacity: 0; }
+  	100% { opacity: 0; }
+  }
+  @-ms-keyframes blink {
+  	0% { opacity: 1; }
+  	50% { opacity: 1; }
+  	50.01% { opacity: 0; }
+  	100% { opacity: 0; }
+  }
+  @-o-keyframes blink {
+	  0% { opacity: 1; }
+	  50% { opacity: 1; }
+	  50.01% { opacity: 0; }
+	  100% { opacity: 0; }
+  }
+  @keyframes blink {
+  	0% { opacity: 1; }
+  	50% { opacity: 1; }
+	  50.01% { opacity: 0; }
+  	100% { opacity: 0; }
+  }
+  /* @end */
+
+   /* ---- base ---- */
+   
+   html,body{ 
+     width: 100%;
+     height: 100%;
+     background:#101011;
+   }
+   
+   html{
+     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+   }
+   
+   body{
+     font:normal 75% Arial, Helvetica, sans-serif;
+   }
+   
+   canvas{
+     display: flex;
+     margin: 0;
+   }
+   
+   .wrapper{
+     background: rgba(35, 39, 65, 0);
+     position: absolute;
+     top: 28%;
+     left: 10%;
+     color: #ffffff;
+     font-size: 50px;
+     text-align: left;
+     text-indent: 4px;
+     line-height: 14px;
+     padding-bottom: 2px;
+     font-family: 'Montserrat';
+     font-weight: normal;
+     z-index: 1;
+   }
+
+   .subtitle{
+     font-size: 25px;
+   }
+
+   .btn_discord{
+    background: #668ad8;/*ButtonColor*/
+    border-bottom: solid 4px #627295;
+   }
+
+   .btn_store{
+    background: #4ebeab;/*ButtonColor*/
+    border-bottom: solid 4px #359671;
+   }
+
+   .square_btn{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    color: #FFF;
+    border-radius: 3px;
+    font-size: 25px;
+}
+.square_btn:active {/*OnClick*/
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);/*Move down*/
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);/*Reduce Shadow*/
+    border-bottom: none;
+}
+   
+   /* ---- particles.js container ---- */
+   
+   #particles-js{
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     background-color: #101011;
+     background-image: url('');
+     background-size: cover;
+     background-position: 0% 0%;
+     background-repeat: no-repeat;
+   }
+
+   .topline {
+     padding-bottom: 20px;
+     line-height: 70px;
+     word-wrap: break-word;
+   }
+   .bottomline{
+     padding-bottom: 28px;
+     line-height: 30px;
+   }
+
+   .info{
+     position: absolute;
+     text-align: center;
+     top: 200px;
+     left: 800px;
+     height: 200px;
+     width: 300px;
+     color: #ffffff;
+     background-color: transparent;
+   }
+
+   .imgRack {
+     width: 100%;
+     height: 100%;
+   }
+
+   /* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+  position: fixed;
+  top: 25px;
+  left: 25px;
+  display:inline-block;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 20px 20px;
+  font-family: Montserrat;
+  float:left;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: #ffffff70
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  color: white;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-underline-position: below;
+  text-decoration-thickness: 2px;
+}
+
+.event{
+  background: rgba(35, 39, 65, 0);
+  top: 28%;
+  left: 10%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  color: #ffffff;
+  font-size: 50px;
+  text-indent: 4px;
+  line-height: 20px;
+  text-align: left;
+  font-family: 'Montserrat';
+  font-weight: normal;
+}
+ .eventtitle {
+  text-decoration: underline;
+  text-decoration-color: rgba(0, 191, 255, 0.836);
+  text-underline-offset: 2px;
+ }
+
+ .eventsubtitle {
+  font-size: 25px;
+  line-height: 40px;
+  text-underline-offset: 2px;
+  padding-bottom: 25px;
+ }
