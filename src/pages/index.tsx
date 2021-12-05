@@ -11,76 +11,17 @@ import "../css/old.css"
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
 
-  const wrapper = {
-    backgroundColor: "rgba(35, 39, 65, 0)",
-     position: "absolute",
-     top: "28%",
-     left: "10%",
-     color: "#ffffff",
-     fontSize: "50px",
-     textAlign: "left",
-     textIndent: '4px',
-     lineHeight: '14px',
-     paddingBottom: '2px',
-     fontFamily: 'Montserrat',
-     //fontWeight: 'normal',
-  }
-
-  const tabBlink = {
-    WebkitAnimation: "blink .75s linear infinite",
-	  MozAnimation: "blink .75s linear infinite",
-    animation: "blink .75s linear infinite",
-    display: "inline-block",
-  }
   return (
-    <div className="wrapper">
-  <div className="topline">Welcome to RackMC<p className="tab blink">_</p></div>
-  
-  <p className="subtitle bottomline">IP: PLAY.RACKMC.NET [JAVA 1.8-1.17]</p>
+    <div>
+      <div className="wrapper">
+        <div className="topline">Welcome to RackMC<p className="tab blink">_</p></div>
+        
+        <p className="subtitle bottomline">IP: PLAY.RACKMC.NET [JAVA 1.8-1.17]</p>
 
-  <a href="https://discord.com/invite/PyeT9Dk2Dp" target="_blank" className="square_btn btn_discord">Discord</a>
-  <a href="https://store.rackmc.net" target="_blank" className="square_btn btn_store">Store</a>
-</div>
-    // <div style={{
-    //   backgroundColor: "rgba(35, 39, 65, 0)",
-    //    position: "absolute",
-    //    top: "28%",
-    //    left: "10%",
-    //    color: "#ffffff",
-    //    fontSize: "50px",
-    //    textAlign: "left",
-    //    textIndent: '4px',
-    //    lineHeight: '14px',
-    //    paddingBottom: '2px',
-    //    fontFamily: 'Montserrat'}}>
-    //    <div style={{paddingBottom: '20px',
-    //  lineHeight: '70px',
-    //  wordWrap: 'break-word'}}>Welcome to RackMC<p style={{
-    //   WebkitAnimation: "blink .75s linear infinite",
-    //   MozAnimation: "blink .75s linear infinite",
-    //   animation: "blink .75s linear infinite",
-    //   display: "inline-block",
-    // }}>_</p></div>
-      
-    //   <p class="subtitle bottomline">IP: PLAY.RACKMC.NET [JAVA 1.8-1.17]</p>
-
-    //   <a href="https://discord.com/invite/PyeT9Dk2Dp" target="_blank" style={{display: 'inline-block',
-    // padding: '0.5em 1em',
-    // textDecoration: 'none',
-    // color: '#FFF',
-    // borderRadius: '3px',
-    // fontSize: '25px',
-    // backgroundColor: '#668ad8',
-    // borderBottom: 'solid 4px #627295'}}>Discord</a>
-    //   <a href="https://store.rackmc.net" target="_blank" style={{display: 'inline-block',
-    // padding: '0.5em 1em',
-    // textDecoration: 'none',
-    // color: '#FFF',
-    // borderRadius: '3px',
-    // fontSize: '25px',
-    // backgroundColor: '#4ebeab',
-    // borderBottom: 'solid 4px #359671'}}>Store</a> 
-    // </div>
+        <a href="https://discord.com/invite/PyeT9Dk2Dp" target="_blank" className="square_btn btn_discord">Discord</a>
+        <a href="https://store.rackmc.net" target="_blank" className="square_btn btn_store">Store</a>
+     </div>
+    </div>
   );
 }
 
@@ -104,7 +45,8 @@ function Space() {
   return (
     <div style={{
       height: "1000px",
-      position: 'relative'
+      position: 'relative',
+      zIndex: 0
     }}>
       <Particles
       style={{position: 'absolute'}}
