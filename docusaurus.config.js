@@ -63,17 +63,31 @@ const config = {
         },
         items: [
           {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left'
+          },
+          {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/RackMC/rackDocs',
-            label: 'GitHub',
-            position: 'right',
+            to: '/staff',
+            label: 'Staff',
+            position: 'left',
           },
+          {
+            to: '/rules',
+            label: 'Rules',
+            position: 'left',
+          },
+          {
+            href: 'https://store.rackmc.net',
+            label: 'Store',
+            position: 'right',
+          }
         ],
       },
       footer: {
@@ -83,8 +97,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Factions',
+                to: '/docs/factions-basics',
               },
             ],
           },

@@ -2,7 +2,7 @@
 id: factions-basics
 title: Factions Basics
 description: The basics of Factions
-slug: /basics
+slug: /factions-basics
 ---
 
 # Factions Basics
