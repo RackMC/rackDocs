@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} RackMC; Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} RackMC`,
       },
       prism: {
         theme: darkCodeTheme,

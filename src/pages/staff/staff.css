@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Montserrat&display=swap');
+
+.staffHeader {
+    text-align: center;
+    font-size: 7em;
+    font-family: 'Montserrat';
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.cardContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.cards {
+    flex: 1;
+    width: 32%;
+}
+
+
+
+
+
+.cardContainer { 
+    margin: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Fira Code';
+}
+.cards {
+    border-radius: 20px;
+    background: salmon;
+    padding: 20px;
+    margin: 5% 5%  5% 5% ;
+    max-width: 500px;
+    min-width: 300px;
+  }
+
+  .cardName {
+      text-align: center;
+      font-size: 2em;
+  }
+
+  .cardTitle {
+    text-align: center;
+    font-size: 1em;
+}
+
+.cardImg {
+    width: 100%;
+    border-radius: 20px;
+}
+
+a {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+@media screen and (max-width: 1850px) {
+    .cards {
+
+        max-width: 300px;
+      }
+  }
+
+  @media (max-width: 1000px) {
+    .cardContainer {
+      /* display: block; */
+    }
+
+    .cards {
+        width: 100%;
+        margin: 0 0 10px 0;
+      }
+  }
+
+  @media (max-width: 790px) {
+    .cardContainer {
+      justify-content: center;
+    }
+
+    .staffHeader {
+        font-size: 5em;
+    }
+
+    .cards {
+        width: 100%;
+        margin: 0 0 10px 0;
+      }
+  }

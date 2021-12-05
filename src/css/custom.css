@@ -30,3 +30,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .footer {
   z-index: 1;
 }
+
+@media screen and (max-width: 1000px) {
+  .footer {
+    display: none;
+  }
+}
+
+.btn-sm {
+  padding: 0.2vw 1vw 0.2vw 1vw;
+  border: none;
+  background-color: white;
+}
