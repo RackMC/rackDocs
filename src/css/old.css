@@ -124,7 +124,14 @@
     color: #FFF;
     border-radius: 3px;
     font-size: 25px;
+    margin: 0.5vw;
 }
+
+.square_btn:hover{
+    color: #FFF;
+    text-decoration: none;
+}
+
 .square_btn:active {/*OnClick*/
     -ms-transform: translateY(4px);
     -webkit-transform: translateY(4px);
