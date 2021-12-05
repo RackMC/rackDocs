@@ -1,25 +1,19 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [nevana]
+tags: [development, website]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to [RackMC](https://rackmc.net)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+This is our offical website. Here is where we host our documentation and tutorials for our various servers, as well as changelogs and blog posts.
 
-Regular blog authors can be added to `authors.yml`.
+RackMC is a Minecraft Server Network dedicated to providing ALL players with a COMPLETE and FULL experience. As of December fifth the network is currently under construction.
 
-The blog post date can be extracted from filenames, such as:
+You can find our documentation for all the different server types [here](/docs/index), and our blogposts/changelogs on the sidebar.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+TODO, finish this
 
-A blog post folder can be convenient to co-locate blog post images:
+![Desert Oasis Screenshot](./Desert-Oasis.png)
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
