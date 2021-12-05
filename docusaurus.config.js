@@ -41,9 +41,22 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    ({ announcementBar: {
+      id: 'support_us',
+      content:
+        'Site is a work in progress, please be patient',
+      backgroundColor: '#C175ED',
+      textColor: '#ffffff', 
+      isCloseable: true,
+    },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
-        title: 'RackMC Docs',
+        
+        title: 'RackMC',
         logo: {
           alt: 'RackMC Logo',
           src: 'img/r1.png',
@@ -53,7 +66,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -105,7 +118,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} RackMC; Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
+        theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),

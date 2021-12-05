@@ -61,7 +61,7 @@ function Space() {
         interactivity: {
           events: {
             onHover: {
-              enable: true,
+              enable: false,
               mode: "connect",
             },
             resize: true,
@@ -92,7 +92,7 @@ function Space() {
           links: {
             color: "#ffffff",
             distance: 150,
-            enable: true,
+            enable: false,
             opacity: 0.05,
             width: 0.09,
           },
