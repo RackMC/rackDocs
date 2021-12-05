@@ -37,15 +37,10 @@ function Space() {
     console.log(container);
   };
 
-  const css = {
-    height: "1000px",
-    position: 'relative'
-  }
 
   return (
     <div style={{
-      height: "1000px",
-      position: 'relative',
+      flex: 1,
       zIndex: 0
     }}>
       <Particles
@@ -146,7 +141,7 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
+      <main style={{display: "flex"}}>
         {/* <HomepageFeatures /> */}
         <Space/>
       </main>
