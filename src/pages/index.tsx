@@ -44,7 +44,7 @@ function Space() {
       zIndex: 0
     }}>
       <Particles
-      style={{position: 'absolute'}}
+      style={{flex: 1, position: "fixed"}}
       id="tsparticles"
       init={particlesInit}
       loaded={particlesLoaded}
