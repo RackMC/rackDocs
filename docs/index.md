@@ -2,7 +2,7 @@
 id: index
 title: Documentation
 description: index page for documentation
-slug: /index
+slug: /
 ---
 
 # Welcome to our documentation

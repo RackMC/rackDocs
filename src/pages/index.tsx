@@ -50,12 +50,6 @@ function Space() {
       loaded={particlesLoaded}
       options={{
         background: {
-          color: {
-            value: "#101011",
-          },
-          opacity: 0.5,
-          size: "contain"
-          
         },
         fpsLimit: 60,
         interactivity: {
