@@ -62,7 +62,7 @@ export default function Home(): JSX.Element {
         </div>
         <div className="cardContainer">
           <StaffCard name="Tuckersbro" title="Manager" image="https://i.imgur.com/CzBPQyH.png" url="" />
-          <StaffCard name="retard" title="Manager" image="https://i.imgur.com/CzBPQyH.png" url="" />
+          {/* <StaffCard name="retard" title="Manager" image="https://i.imgur.com/CzBPQyH.png" url="" />
           <StaffCard name="gayass" title="Manager" image="https://i.imgur.com/CzBPQyH.png" url="" />
           <StaffCard name="idiot" title="Manager" image="https://i.imgur.com/CzBPQyH.png" url=""/>
           <StaffCard name="degen" title="Moderator" image="https://i.imgur.com/CzBPQyH.png" url="" />
@@ -72,7 +72,7 @@ export default function Home(): JSX.Element {
           <StaffCard name="mizkif" title="Twitch Streamer" image="https://static-cdn.jtvnw.net/jtv_user_pictures/ddd88d33-6c4f-424f-9246-5f4978c93148-profile_image-150x150.png" url="" />
           <StaffCard name="luddywigg" title="YouTuber" image="https://yt3.ggpht.com/ytc/AKedOLTxsagKkqooW4d_Px-nXlf1fGBSwQAqwgu6ttLBBA=s176-c-k-c0x00ffffff-no-rj-mo" url="" />
           <StaffCard name="retard v3" title="YouTuber" image="https://yt3.ggpht.com/tvkeak3Sfk6blV7sMIO6CjhUMSTmNTSgiBF2NOaj7V0xuZPEvkmARxgKtCUFpyONef-LS1ZW=s176-c-k-c0x00ffffff-no-rj-mo" url="" />
-          <StaffCard name="cringe" title="Twitch Streamer" image="https://cdn.7tv.app/pp/60b05a0a6862c44dce4709af/9a66a21d74324ea998b8663d8b85c5c8" url=""/>
+          <StaffCard name="cringe" title="Twitch Streamer" image="https://cdn.7tv.app/pp/60b05a0a6862c44dce4709af/9a66a21d74324ea998b8663d8b85c5c8" url=""/> */}
         </div>
         
       </main>
