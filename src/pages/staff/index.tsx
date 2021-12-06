@@ -56,7 +56,7 @@ export default function Home(): JSX.Element {
         <HomepageHeader />
         <div className="cardContainer">
           <StaffCard name="NEvana" title="Admin" image="https://github.com/nevana0003.png" url="" />
-          <StaffCard name="Hyp3r7" title="Admin" image="https://github.com/hyp3r7.png" url="" />
+          <StaffCard name="Hyp3r7" title="Admin" image="https://cdn.discordapp.com/avatars/311515913352511498/037096ee20de5725c6de5076d7a0de81.webp?size=1024" url="" />
           <StaffCard name="Tactry3" title="Admin" image="https://github.com/tactryl3.png" url=""/>
           <StaffCard name="SleepyDubz" title="Admin" image="https://github.com/SleepyDubz.png" url=""/>
         </div>
