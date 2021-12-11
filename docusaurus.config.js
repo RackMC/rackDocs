@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const cur = require("./cur.js")
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -129,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} RackMC`,
+        copyright: `Copyright © ${new Date().getFullYear()} RackMC | `+ cur.cur,
       },
       prism: {
         theme: darkCodeTheme,
