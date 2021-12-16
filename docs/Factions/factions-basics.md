@@ -17,7 +17,7 @@ When joining the server for the first time, you can either join an existing fact
 
 Joining a faction involves fewer steps, as you just need to use the join command, so let's go your own way.
 
-## Make your faction
+## Make Your Faction
 
 Time to make your own new faction! The create command lets you set the faction's name:
 
@@ -41,13 +41,12 @@ Now, your faction members can teleport to this location to go back to the base. 
 
 If he so chooses, jeb_ can now `/f join koolkids` and be a part of your faction!
 
-## Faction Money Management
+## Grow Your Faction
 
 Your faction will need money to expand and grow it's influence!
 
 
 :::note
 
-This sections has been adapted for RackMC from the FactionsUUID Wiki!
-Source: https://factions.support/
+This section has been adapted for RackMC from the FactionsUUID Wiki: https://factions.support/
 :::
