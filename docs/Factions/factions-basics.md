@@ -11,9 +11,9 @@ In this section you will:
 - Learn how to invite players to your faction
 - Learn how to enemy, friend, and ally with other factions
 
-## First Steps
+## Getting Started
 
-When joining a server for the first time, you can either join an existing faction or create your own.
+When joining the server for the first time, you can either join an existing faction or create your own.
 
 Joining a faction involves fewer steps, as you just need to use the join command, so let's go your own way.
 
@@ -41,9 +41,13 @@ Now, your faction members can teleport to this location to go back to the base. 
 
 If he so chooses, jeb_ can now `/f join koolkids` and be a part of your faction!
 
+## Faction Money Management
+
+Your faction will need money to expand and grow it's influence!
+
+
 :::note
 
-This sections has been adapted for RackMC from the FactionsUUID Wiki.
-Link: https://factions.support/firststeps/
-
-::
+This sections has been adapted for RackMC from the FactionsUUID Wiki!
+Source: https://factions.support/
+:::
