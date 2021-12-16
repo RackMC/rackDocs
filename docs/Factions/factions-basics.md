@@ -41,5 +41,9 @@ Now, your faction members can teleport to this location to go back to the base. 
 
 If he so chooses, jeb_ can now `/f join koolkids` and be a part of your faction!
 
+:::note
+
 This sections has been adapted for RackMC from the FactionsUUID Wiki.
 Link: https://factions.support/firststeps/
+
+::
