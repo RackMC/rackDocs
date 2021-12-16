@@ -11,7 +11,7 @@ In this section you will:
 - Learn how to invite players to your faction
 - Learn how to enemy, friend, and ally with other factions
 
-# First Steps
+## First Steps
 
 When joining a server for the first time, you can either join an existing faction or create your own.
 
