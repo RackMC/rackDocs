@@ -65,7 +65,7 @@ Next, lets expand your faction! To claim a new chunk for your faction, stand in 
 
 :::tip
 For other ways to claim land see [Factions Commands](https://rackmc.net/docs/factions-commands)
-
+:::
 
 :::note
 
