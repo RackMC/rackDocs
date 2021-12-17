@@ -1,6 +1,6 @@
 ---
 id: factions-commands
-title: Factions Commands
+title: Commands
 description: Factions Commands!
 slug: /factions-commands
 ---

@@ -1,17 +1,11 @@
 ---
-id: factions-basics
-title: Basics
+id: factions-starting
+title: Getting Started
 description: The basics of Factions
-slug: /factions-basics
+slug: /factions-starting
 ---
 
-# Factions Basics
-In this section you will:
-- Learn how to create a faction
-- Learn how to invite players to your faction
-- Learn how to enemy, friend, and ally with other factions
-
-## Getting Started
+# Getting Started
 
 When joining the server for the first time, you can either join an existing faction or create your own.
 
