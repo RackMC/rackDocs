@@ -43,7 +43,28 @@ If he so chooses, jeb_ can now `/f join koolkids` and be a part of your faction!
 
 ## Grow Your Faction
 
-Your faction will need money to expand and grow it's influence!
+Your faction will need money to expand and grow it's influence! Start by depositing some money into your faction bank:
+
+`/f money deposit [amount]`
+
+In the future, you can check your balance using the faction balance command:
+
+`/f money balance`
+
+If you want to withdrawl money from your faction bank you can use the faction withdrawl command:
+
+`/f money withdrawl [amount]`
+
+:::tip
+While any faction member can deposit into the faction bank, only members with certain permissions can withdrawl. Your faction owner can configure who can do this.
+:::
+
+Next, lets expand your faction! To claim a new chunk for your faction, stand in the chunk you want to claim and run: 
+
+`/f claim`
+
+:::tip
+For other ways to claim land see [Factions Commands](https://rackmc.net/docs/factions-commands)
 
 
 :::note
