@@ -1,6 +1,6 @@
 ---
 id: factions-basics
-title: Factions Basics
+title: Basics
 description: The basics of Factions
 slug: /factions-basics
 ---
@@ -68,6 +68,5 @@ For other ways to claim land see [Factions Commands](https://rackmc.net/docs/fac
 :::
 
 :::note
-
 This section has been adapted for RackMC from the FactionsUUID Wiki: https://factions.support/
 :::
