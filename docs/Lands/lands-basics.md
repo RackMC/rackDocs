@@ -2,7 +2,7 @@
 id: lands-basics
 title: Lands Basics
 description: The basics of Lands
-slug: /lands-basics
+slug: lands-basics
 ---
 
 # Lands Basics

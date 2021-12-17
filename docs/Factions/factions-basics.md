@@ -2,7 +2,7 @@
 id: factions-starting
 title: Getting Started
 description: The basics of Factions
-slug: /factions-starting
+slug: factions-starting
 ---
 
 # Getting Started

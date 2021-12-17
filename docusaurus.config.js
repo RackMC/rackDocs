@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Factions',
-                to: '/docs/factions-basics',
+                to: '/docs/factions-starting',
               },
             ],
           },

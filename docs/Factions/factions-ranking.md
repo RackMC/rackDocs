@@ -2,7 +2,7 @@
 id: factions-powerranking
 title: Power & Ranking
 description: Learn how our Factions ranking system works!
-slug: /factions-powerranking
+slug: factions-powerranking
 ---
 
 # Factions Ranking

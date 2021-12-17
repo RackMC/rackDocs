@@ -2,7 +2,7 @@
 id: creative-basics
 title: Creative Basics
 description: The basics of Creative
-slug: /creative-basics
+slug: creative-basics
 ---
 
 # Creative Basics
