@@ -13,30 +13,16 @@ It's time to create your first settlement! To start, use the create command:
 
 `/lands create <name>`
 
-
-
-Next, you will want to enter the selection mode using the selection command:
+Next, you will want to select the area for your land. To do this, you will select two corners using the selection command:
 
 `/lands selection` 
-
-or use the selection tool, if provided by the server.
-
-Select both corners of the area you want to claim
-
-Use left and right click to do so.
-
-
 
 Finally you will want to claim the area you have selected using the claim command:
 
 `/lands claim`
 
-If no selection made, it will claim the chunk you're standing on.
+:::note If no selection made, it will claim the chunk you're standing on. :::
 
-If no land has been created before, it will automatically create a land with your name.
+:::note If no land has been created before, it will automatically create a land with your name. :::
 
-
-
-Open the lands menu to manage your land
-
-`/lands menu`
+For a simple way to edit your new land, you can use `/lands menu`
