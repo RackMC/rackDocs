@@ -21,8 +21,9 @@ Finally you will want to claim the area you have selected using the claim comman
 
 `/lands claim`
 
-:::note If no selection made, it will claim the chunk you're standing on. 
-
-If no land has been created before, it will automatically create a land with your name. :::
+:::note 
+If no selection made, it will claim the chunk you're standing on. 
+If no land has been created before, it will automatically create a land with your name. 
+:::
 
 For a simple way to edit your new land, you can use `/lands menu`
