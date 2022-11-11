@@ -8,22 +8,18 @@ slug: lands-basics
 # Lands Basics
 In this section you will learn how the RackMC Lands server works! 
 
-## Creating a Land
-It's time to create your first settlement! To start, use the create command:
+Our Lands server is a community driven server that 
 
-`/lands create <name>`
+Some features of our server include:
 
-Next, you will want to select the area for your land. To do this, you will select two corners using the selection command:
-
-`/lands selection` 
-
-Finally you will want to claim the area you have selected using the claim command:
-
-`/lands claim`
-
-:::note 
-If no selection made, it will claim the chunk you're standing on. 
-If no land has been created before, it will automatically create a land with your name. 
-:::
-
-For a simple way to edit your new land, you can use `/lands menu`
+1. A 20k block worldborder
+2. Random teleport range of 5k blocks
+3. Features for roleplay, such as a marriage plugin and custom player titles
+4. Chest shops
+5. An auction house
+6. A PVP toggle command
+7. MCMMO
+8. Elevators
+9. An admin shop
+10. Bluemap
+11. The brewery plugin
