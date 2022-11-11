@@ -60,7 +60,7 @@ const sidebars = {
         description: 'Learn about the most important Docusaurus concepts!',
         slug: '/Lands',
       },
-      items: ['Lands/lands-basics'],
+      items: ['Lands/lands-basics', 'Lands/lands-getting-started'],
     },
   ],
 };
