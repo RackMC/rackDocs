@@ -1,7 +1,7 @@
 ---
 id: lands-commands
 title: Lands Commands
-description: Lands Commands
+description: All the commands for lands
 slug: lands-commands
 ---
 
