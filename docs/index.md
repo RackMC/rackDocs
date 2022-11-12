@@ -7,6 +7,6 @@ slug: /
 
 # Welcome to our documentation
 
-Documents intro page, TODO, write this page
+Here you will find everything you will need to know for each server. If you find any mistakes or missing information, let a staff member know!
 
 
