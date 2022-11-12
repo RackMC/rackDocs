@@ -17,9 +17,9 @@ Explanation
 Parameters surrounded by [] are optional. Parameters surrounded by <> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
-- <interval>: The tenant can extend their rental by <interval>. Time units: d (days), h (hours) and m (minutes). Default is d. Example: 15d = 15 days
-- <max>: Is the max. duration of the rental.
-- <cost>: Defines the cost per <interval>.
+- \<interval>: The tenant can extend their rental by <interval>. Time units: d (days), h (hours) and m (minutes). Default is d. Example: 15d = 15 days
+- \<max>: Is the max. duration of the rental.
+- \<cost>: Defines the cost per <interval>.
 You can only set sub areas for rent. The default area can only be set for sale (= selling the whole land; more information below)
 
 Example:
