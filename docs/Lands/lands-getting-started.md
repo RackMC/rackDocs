@@ -1,7 +1,7 @@
 ---
 id: lands-getting-started
 title: Getting Started
-description: The basics of Lands
+description: Getting started
 slug: lands-getting-started
 ---
 
