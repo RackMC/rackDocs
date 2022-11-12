@@ -6,14 +6,14 @@ slug: lands-rent
 ---
 
 ## Rent Sign
-Rent sign setup:
-
+#### Rent sign setup:
+```
 Lands
 rent [area]
-\<interval> [max]
-\<cost>
-
-Explanation
+<interval> [max]
+<cost>
+```
+#### Explanation
 Parameters surrounded by [] are optional. Parameters surrounded by \<> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
@@ -29,7 +29,7 @@ rent Test
 7d 30d
 1000
 ```
-When the Sign has been placed
+#### When the Sign has been placed
 The rent sign is setup and players can now access it.
 
 To rent this area, just click on the sign.
@@ -41,13 +41,13 @@ As the area owner you can either remove the sign or execute /lands rent remove w
 
 ## Sell Sign
 Sell signs can be placed in sub areas and in the default area (= selling the whole land)
-Sell sign setup
-
+#### Sell sign setup
+```
 Lands
 sell [area]
-\<cost>
-
-Explanation
+<cost>
+```
+#### Explanation
 Parameters surrounded by [] are optional. Parameters surrounded by \<> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
