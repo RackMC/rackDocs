@@ -6,67 +6,67 @@ slug: lands-commands
 ---
 
 ## Lands
-/lands
+`/lands`
 Description: Open the menu.
 
-/lands help [page]
+`/lands help [page]`
 Description: Display command usages of Lands.
 
-/lands claim
+`/lands claim`
 Description: Claim chunks.
 
-/lands claim auto
+`/lands claim auto`
 Description: Claim chunks while walking.
 
-/lands create
+`/lands create`
 Description: Create a land.
 
-/lands merge <land>
+`/lands merge <land>`
 Description: Merge a land (parameter) into your other land.
 
-/lands accept <land>
+`/lands accept <land>`
 Description: Accept invites.
 
-/lands chat [land] <message>
+`/lands chat [land] <message>`
 Description: Chat with land.
 
-/lands delete
+`/lands delete`
 Description: Delete your land.
 
-/lands deny
+`/lands deny`
 Description: Deny invite.
 
-/lands deposit [land] <amount>
+`/lands deposit [land] <amount>`
 Description: Deposit money to land bank.
 
-/lands edit <land>
+`/lands edit <land>`
 Description: Enter edit mode for a land.
 Actions like /lands claim will be executed for this land.
 
-/lands info [land]
+`/lands info [land]`
 Description: Show information about a land.
 
-/lands invites
+`/lands invites`
 Description: Open received invites GUI.
 
-/lands leave <land>
+`/lands leave <land>`
 Description: Leave a land.
 
-/lands map
+`/lands map`
 Description: Show lands map.
 
-/lands menu
+`/lands menu`
 Description: Open Lands GUI.
 Append "here" to the command to open the GUI
 for the chunk you're standing in.
 
-/lands menu here
+`/lands menu here`
 Description: Open Lands GUI for the chunk you're standing in.
 
-/lands rename [land] <new name>
+`/lands rename [land] <new name>`
 Description: Rename land.
 
-/lands selection
+`/lands selection`
 Description: Select a region for actions like /lands claim.
 Use /lands selection expand to expand the selection to all y levels.
 Possible actions:
@@ -75,117 +75,117 @@ Possible actions:
 /lands trust
 /lands untrust
 
-/lands setrole <player> <area,*> <role>
+`/lands setrole <player> <area,*> <role>`
 Description: Set a role of a player.
 The area parameter defines a sub area of the land.
 
-/lands setspawn
+`/lands setspawn`
 Description: Set spawn for land.
 
-/lands spawn [land]
+`/lands spawn [land]`
 Description: Teleport to land spawn.
 
-/lands teleport <x> <z>
+`/lands teleport <x> <z>`
 Description: Teleport to a claimed land chunk.
 
-/lands top
+`/lands top`
 Description: Show top ten lands.
 
-/lands trust <player> [area,*]
+`/lands trust <player> [area,*]`
 Description: Trust a player.
 Area parameter is optional.
 
-/lands unclaim
+`/lands unclaim`
 Description: Unclaim a chunk.
 
-/lands unclaim auto
+`/lands unclaim auto`
 Description: Unclaim chunks while walking.
 
-/lands unclaimall
+`/lands unclaimall`
 Description: Unclaim all chunks for the land.
 
-/lands untrust <player> [area,*]
+`/lands untrust <player> [area,*]`
 Description: Untrust player.
 Area parameter is optional.
 
-/lands view
+`/lands view`
 Description: Visualise land borders.
 
-/lands wild [world] [player]
+`/lands wild [world] [player]`
 Description: Teleport to a random location. The optional player parameter is
 only available to players with the permission "lands.admin.command.wild"
 You can customize this command in the config file.
 
-/lands wild [world] [player]
+`/lands wild [world] [player]`
 Description: Execute /wild for other players.
 
-/lands withdraw [land] <amount>
+`/lands withdraw [land] <amount>`
 Description: Withdraw money from land bank.
 
-/lands taxes
+`/lands taxes`
 Description: View upcoming tax payments.
 
-/lands rent
+`/lands rent`
 Description: Manage rentals.
 
-/lands relations
+`/lands relations`
 Description: Manage relations.
 
-/lands confirmtp
+`/lands confirmtp`
 Description: Confirm unsafe destination.
 
 ## Nations
-/nations create
+`/nations create`
 Description: Create a nation.
 
-/nations accept
+`/nations accept`
 Description: Accept invite.
 
-/nations delete
+`/nations delete`
 Description: Delete nation.
 
-/nations deny
+`/nations deny`
 Description: Deny invite.
 
-/nations leave
+`/nations leave`
 Description: Leave nation.
 
-/nations rename
+`/nations rename`
 Description: Rename nation.
 
-/nations menu
+`/nations menu`
 Description: Open nation menu.
 
-/nations setcapital
+`/nations setcapital`
 Description: Set capital of nation.
 
-/nations spawn
+`/nations spawn`
 Description: Teleport to nation spawn.
 
-/nations trust
+`/nations trust`
 Description: Add land.
 
-/nations untrust
+`/nations untrust`
 Description: Remove land.
 
-/nations relations
+`/nations relations`
 Description: Manage relations.
 
-/nations top
+`/nations top`
 Description: View top nations.
 
 ## Wars
-/wars declare
+`/wars declare`
 Description: Declare war against a land or nation.
 
-/wars deny
+`/wars deny`
 Description: Deny mutual war declaration.
 
-/wars info
+`/wars info`
 Description: Info about current war.
 
-/wars menu
+`/wars menu`
 Description: Open menu for current war.
 
-/wars spawn
+`/wars spawn`
 Description: Teleport to the enemies border.
