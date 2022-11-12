@@ -31,11 +31,10 @@ this land.
 
 For a simple way to edit your new land, you can use `/lands menu`
 
-## Trust Players
+## Trusting/Untrusting Players
 Execute `/lands trust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
 and click on the 'Trust Player' button.
 
-## Untrust Players
 Execute `/lands untrust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
 and click on the 'Untrust Player' button.
 
