@@ -40,11 +40,19 @@ and click on the 'Untrust Player' button.
 
 ## Lands Permissions and Roles
 Toggle Permissions for Players
+
 Open your lands menu by executing /lands
+
 Click on the roles item
+
 Open the role settings menu
+
 Configure the settings to your liking
+
 Promote / Demote Players
+
 Open your lands menu by executing /lands
+
 Click on the player's item
+
 Use left click to promote and right click to demote them
