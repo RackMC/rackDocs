@@ -25,4 +25,26 @@ If no land has been created before, it will automatically create a land with you
 
 For a simple way to edit your new land, you can use `/lands menu`
 
-## Grow Your Land
+## Editing Your Land
+Select a Land for Editing
+Execute `/lands edit <land>`
+Allow following commands will be executed for
+this land.
+
+## Trust Players
+Execute `/lands trust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
+and click on the 'Trust Player' button.
+
+## Untrust Players
+Execute `/lands untrust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
+and click on the 'Untrust Player' button.
+
+Toggle Permissions for Players
+Open your lands menu by executing /lands
+Click on the roles item
+Open the role settings menu
+Configure the settings to your liking
+Promote / Demote Players
+Open your lands menu by executing /lands
+Click on the player's item
+Use left click to promote and right click to demote them
