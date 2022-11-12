@@ -46,7 +46,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Creative Documentation',
-        description: 'Learn about the most important Docusaurus concepts!',
+        description: 'Documentaion for the creative server',
         slug: '/Creative',
       },
       items: ['Creative/creative-basics'],
@@ -57,7 +57,7 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Lands Documentation',
-        description: 'Learn about the most important Docusaurus concepts!',
+        description: 'Documentaion for the lands server',
         slug: '/Lands',
       },
       items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-nations', 'Lands/lands-wars', 'Lands/lands-commands'],
