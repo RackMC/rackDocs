@@ -23,12 +23,12 @@ Parameters surrounded by [] are optional. Parameters surrounded by \<> are requi
 You can only set sub areas for rent. The default area can only be set for sale (= selling the whole land; more information below)
 
 Example:
-
+```
 Lands
 rent Test
 7d 30d
 1000
-
+```
 When the Sign has been placed
 The rent sign is setup and players can now access it.
 
@@ -54,12 +54,10 @@ Parameters surrounded by [] are optional. Parameters surrounded by \<> are requi
 - \<cost>: Defines the total cost.
 
 Example:
-`
+```
 Lands
-
 sell Test
-
 1000
-`
+```
 ## Browse Listings
 Use `/lands rentlist` to view all areas and lands that can be rented or bought. There you can also filter and sort these offers.
