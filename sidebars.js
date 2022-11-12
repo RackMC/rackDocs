@@ -45,7 +45,7 @@ const sidebars = {
       label: 'Creative',
       link: {
         type: 'generated-index',
-        title: 'Docusaurus Guides',
+        title: 'Creative Documentation',
         description: 'Learn about the most important Docusaurus concepts!',
         slug: '/Creative',
       },
@@ -56,7 +56,7 @@ const sidebars = {
       label: 'Lands',
       link: {
         type: 'generated-index',
-        title: 'Docusaurus Guides',
+        title: 'Lands Documentation',
         description: 'Learn about the most important Docusaurus concepts!',
         slug: '/Lands',
       },
