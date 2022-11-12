@@ -56,7 +56,9 @@ Parameters surrounded by [] are optional. Parameters surrounded by \<> are requi
 Example:
 `
 Lands
+
 sell Test
+
 1000
 `
 ## Browse Listings
