@@ -55,9 +55,9 @@ Parameters surrounded by [] are optional. Parameters surrounded by \<> are requi
 
 Example:
 `
-1. Lands
-2. sell Test
-3. 1000
+Lands
+sell Test
+1000
 `
 ## Browse Listings
 Use `/lands rentlist` to view all areas and lands that can be rented or bought. There you can also filter and sort these offers.
