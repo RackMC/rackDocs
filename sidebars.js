@@ -60,7 +60,7 @@ const sidebars = {
         description: 'Learn about the most important Docusaurus concepts!',
         slug: '/Lands',
       },
-      items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-commands'],
+      items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-nations', 'Lands/lands-commands'],
     },
   ],
 };
