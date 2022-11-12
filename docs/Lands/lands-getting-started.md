@@ -24,3 +24,5 @@ If no land has been created before, it will automatically create a land with you
 :::
 
 For a simple way to edit your new land, you can use `/lands menu`
+
+## Grow Your Land
