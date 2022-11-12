@@ -23,13 +23,13 @@ If no selection made, it will claim the chunk you're standing on.
 If no land has been created before, it will automatically create a land with your name. 
 :::
 
-For a simple way to edit your new land, you can use `/lands menu`
-
 ## Editing Your Land
 Select a Land for Editing
 Execute `/lands edit <land>`
 Allow following commands will be executed for
 this land.
+
+For a simple way to edit your new land, you can use `/lands menu`
 
 ## Trust Players
 Execute `/lands trust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
@@ -39,6 +39,7 @@ and click on the 'Trust Player' button.
 Execute `/lands untrust <player> [area or * for whole land]` Alternatively, open your land menu and go to players
 and click on the 'Untrust Player' button.
 
+## Lands Permissions and Roles
 Toggle Permissions for Players
 Open your lands menu by executing /lands
 Click on the roles item
