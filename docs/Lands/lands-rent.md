@@ -14,12 +14,12 @@ rent [area]
 <cost>
 ```
 #### Explanation
-Parameters surrounded by [] are optional. Parameters surrounded by <> are required.
+Parameters surrounded by [] are optional. Parameters surrounded by <\> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
-- \<interval>: The tenant can extend their rental by \<interval>. Time units: d (days), h (hours) and m (minutes). Default is d. Example: 15d = 15 days
-- \<max>: Is the max. duration of the rental.
-- \<cost>: Defines the cost per \<interval>.
+- <interval\>: The tenant can extend their rental by <interval\>. Time units: d (days), h (hours) and m (minutes). Default is d. Example: 15d = 15 days
+- \<max\>: Is the max. duration of the rental.
+- \<cost\>: Defines the cost per \<interval\>.
 You can only set sub areas for rent. The default area can only be set for sale (= selling the whole land; more information below)
 
 Example:
@@ -45,13 +45,13 @@ Sell signs can be placed in sub areas and in the default area (= selling the who
 ```
 Lands
 sell [area]
-<cost>
+<cost\>
 ```
 #### Explanation
-Parameters surrounded by [] are optional. Parameters surrounded by \<> are required.
+Parameters surrounded by [] are optional. Parameters surrounded by \<\> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
-- \<cost>: Defines the total cost.
+- \<cost\>: Defines the total cost.
 
 Example:
 ```
