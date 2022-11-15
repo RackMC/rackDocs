@@ -14,7 +14,7 @@ rent [area]
 <cost>
 ```
 #### Explanation
-Parameters surrounded by [] are optional. Parameters surrounded by \<> are required.
+Parameters surrounded by [] are optional. Parameters surrounded by <> are required.
 
 - [area]: This parameter is only needed if the sign is placed outside the area.
 - \<interval>: The tenant can extend their rental by \<interval>. Time units: d (days), h (hours) and m (minutes). Default is d. Example: 15d = 15 days
