@@ -16,7 +16,7 @@ function HomepageHeader() {
       <div className="wrapper">
         <div className="topline">Welcome to RackMC<p className="tab blink">_</p></div>
         
-        <p className="subtitle bottomline">IP: PLAY.RACKMC.NET [JAVA 1.8-1.18]</p>
+        <p className="subtitle bottomline">IP: PLAY.RACKMC.NET [JAVA 1.8-1.20]</p>
 
         <a href="https://discord.com/invite/PyeT9Dk2Dp" target="_blank" className="square_btn btn_discord">Discord</a>
         <a href="https://store.rackmc.net" target="_blank" className="square_btn btn_store">Store</a>
