@@ -5,7 +5,7 @@ authors: [hyp3r7]
 tags: [update, lands, website]
 ---
 
-It's been a while, we are back!!
+It's been a while, but we are back!!
 
 After nearly two years, RackMC is making a return!! For the past week or so, we have been running a small, "unofficial" playtest for the RackMC Lands server to get it updated and back to a playable state. Now that we feel as though we have, we would like to officially announce that we will be doing a second playtest for the Lands server! We want to invite everyone that has stuck with the project until now to join us in playing on and testing the Lands server for a final time. We plan to have the playtest up for the next month or two with a potential launch of the RackMC network this summer (no promises yet lol)
 
