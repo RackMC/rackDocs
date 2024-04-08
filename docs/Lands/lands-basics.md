@@ -20,5 +20,5 @@ Some features of our server include:
 6. **An auction house** to sell your most valuable items easily
 7. **A PVP toggle command** to prevent unwanted attacks
 8. **MCMMO** to allow you to level up your skills
-9. An in-browser [**map**](lands.rackmc.net) to see the world in all its glory
+9. An in-browser [**map**](https://lands.rackmc.net) to see the world in all its glory
 10. And more!!!
