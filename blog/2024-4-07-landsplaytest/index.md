@@ -44,7 +44,7 @@ With the custom image maps, we have added the ability to toggle the visibility o
     - Note: you will need to crouch and right click to toggle the visibility. Once you are done, you will need to run the command again.
 
 ### Copper Economy
-This is by far the biggest change. So big in fact, we aren't sure if it will work the way we want, which is why we are testing it here. If you have any issues, confusion, or suggestions, let us know by opening a ticket in our [discord](discord.rackmc.net). 
+This is by far the biggest change. So big in fact, we aren't sure if it will work the way we want, which is why we are testing it here. If you have any issues, confusion, or suggestions, let us know by opening a ticket in our [discord](https://discord.rackmc.net). 
 The way it works is there is a limited amount of money (copper) in circulation. The money is collected through lands upkeep, at $250 per chunk per day. What this all means is that while you can still earn money from the jobs system that we had previously, once there is no more money to pay out, you will have to mine for more copper. To prevent players from just draining the server balance, there is a cap based on your total jobs level. This is all a work in progress and isn't set in stone, so as previously mentioned, your feedback is greatly appreciated so we can tweak this system to make it work just right.
 - The only command you should need is actually /shop, which will open the new copper to $ exchange
 
@@ -52,7 +52,7 @@ The way it works is there is a limited amount of money (copper) in circulation. 
 Due to the fact that we want community to reign supreme, we have decided to remove the /shop. We want chest shops to be the number 1 way people buy and sell items, and the /shop was just to cheap and easy compared to player run chest shops. In place of /shop, we will plan to set up a market area in the next couple of days for players to build shops in a localized area to sell their goods to make it easier to access. We will still have the auction house with /ah for specialty items to be sold.
 
 ### Bluemaps
-This one isn't really new, but we just wanted to remind everyone that we have a [web-based map](lands.rackmc.net) of the entire explored server for everyone to view
+This one isn't really new, but we just wanted to remind everyone that we have a [web-based map](https://lands.rackmc.net) of the entire explored server for everyone to view
 
 ### RTP
 Another one that isn't new, but we just wanted to lay out how it works for anyone who is new.
