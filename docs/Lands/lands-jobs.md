@@ -9,7 +9,7 @@ slug: lands-jobs
 The jobs plugin allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Just open the menu, right click the job you want, and get to work to earn money!
 
 # Jobs Limitations
-You can select whatever job you want, but you can only be in 3 jobs at a time. Jobs that have more workers will pay up to 50% less, while jobs with less workers can pay up to 200% more.
+You can select whatever job you want, but you can only be in 3 jobs at a time. Jobs that have more workers will pay up to 50% less, while jobs with less workers can pay up to 200% more. Whenever you switch jobs, you will lose 15% of your level for that job.
 
 # Jobs Commands
 `/jobs browse` Opens the jobs menu
