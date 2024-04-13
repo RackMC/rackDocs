@@ -60,7 +60,7 @@ const sidebars = {
         description: 'Documentaion for the lands server',
         slug: '/Lands',
       },
-      items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-nations', 'Lands/lands-wars', 'Lands/lands-commands'],
+      items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-nations', 'Lands/lands-wars', 'Lands/lands-commands', 'Lands/lands-jobs', 'Lands/lands-chestshops', 'Lands/lands-rtp', 'Lands/lands-mcmmo', 'Lands/lands-pvp', 'Lands/lands-auction', 'Lands/lands-brewery', 'Lands/lands-imageframe', 'Lands/lands-elevators'],
     },
   ],
 };
