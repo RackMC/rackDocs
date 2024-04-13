@@ -12,13 +12,14 @@ The RackMC Lands server is a community-driven experience where players can prote
 
 Some features of our server include:
 
-1. A massive **20k block worldborder**
-2. **Random teleport** range of up to 5k blocks
-3. **An admin shop** to buy and sell basic materials
-4. **Chest shops** facilitate buying and selling of items
-5. **Jobs** to make money of your work
-6. **An auction house** to sell your most valuable items easily
-7. **A PVP toggle command** to prevent unwanted attacks
-8. **MCMMO** to allow you to level up your skills
-9. An in-browser [**map**](https://lands.rackmc.net) to see the world in all its glory
-10. And more!!!
+1. **40k Block World Border**
+2. [**Browser Map**](https://lands.rackmc.net)
+3. [**Jobs**](https://rackmc.net/docs/Lands/lands-jobs)
+4. [**Chest Shops**](https://rackmc.net/docs/Lands/lands-chestshops)
+5. [**RTP**](https://rackmc.net/docs/Lands/lands-rtp)
+6. [**MCMMO**](https://rackmc.net/docs/Lands/lands-mcmmo)
+7. [**PVP Toggle**](https://rackmc.net/docs/Lands/lands-pvp)
+8. [**Auction House**](https://rackmc.net/docs/Lands/lands-auction)
+9. [**Brewery Plugin**](https://rackmc.net/docs/Lands/lands-brewery)
+10. [**Custom Image Maps**](https://rackmc.net/docs/Lands/lands-imageframe)
+11. [**Elevators**](https://rackmc.net/docs/Lands/lands-elevators)
