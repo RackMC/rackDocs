@@ -5,13 +5,14 @@ description: Auction House
 slug: lands-auction
 ---
 
-# Auction House Basics
+# Auction House
+## Auction House Basics
 The auction house allows for the selling of a few specialty items in an easily accessible menu. The alternative is to sell bulk items in in [Chest Shops](https://rackmc.net/docs/Lands/lands-chestshops)
 
-# Auction House Limitations
+## Auction House Limitations
 You can list any item, but you can't list more than 5 items at a time. Listings will stay on the auction house for 7 days before they expire.
 
-# Auction House Commands
+## Auction House Commands
 `/ah` Opens the auction house menu and allows you to do everything below
 
 `/ah sell <price>` Sells the item in your hand
