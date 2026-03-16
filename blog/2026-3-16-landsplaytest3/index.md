@@ -1,5 +1,5 @@
 ---
-slug: rackmcbeta
+slug: landsplaytest3
 title: 3rd Lands Playtest
 authors: [hyp3r7]
 tags: [update, website]
