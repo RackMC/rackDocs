@@ -52,9 +52,6 @@ Due to how long its been since our last playtest and the fact that we haven't wo
 - This may be added during the beta for testing, but may or may not make it into the full release
 #### Discord Bridge
 - We may add a minecraft to discord chat bridge for players who are not online to chat through discord
-#### Bluemap
-- An interactive map of the entire lands server
-- This is one that is almost ready, but not quite there
 
 ## Creative
 ### New Features
