@@ -8,18 +8,11 @@ tags: [update, website]
 After the first day of the RackMC open beta, we have been able to find and fix many issues. I just wanted to make this quick post to let you all know of the known issues, fixes we have made, and major changes to the network. If you find any more issues, make sure to open a ticket in our [discord](https://discord.rackmc.net). 
 
 ### Known Issues
-#### Network
-- N/A
-#### Lobby
-- N/A
 #### Creative
 - World edit does not work in plots
-#### Lands
-- N/A
+
 
 ### Bug Fixes
-#### Network
-- N/A
 #### Lobby
 - Can no longer take damage in the lobby
 #### Creative
@@ -32,12 +25,6 @@ After the first day of the RackMC open beta, we have been able to find and fix m
 - Multiplayer sleep only requires 25% of players instead of 50%
 
 ### Major Changes
-#### Network
-- N/A
-#### Lobby
-- N/A
-#### Creative
-- N/A
 #### Lands
 We have made some changes regarding land claiming and upkeep:
 - Creating a new Land will now only claim 1 chunk instead of 9
