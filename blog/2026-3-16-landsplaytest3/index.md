@@ -57,7 +57,7 @@ Due to how long its been since our last playtest and the fact that we haven't wo
 ### New Features
 - N/A
 ### Broken Features
-- N/A
+- World edit does not work in plots
 ### Future Features
 - N/A
 
