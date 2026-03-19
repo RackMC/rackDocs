@@ -1,6 +1,6 @@
 ---
 slug: openbetaupdate1
-title: RackMC Open Beta Update #1
+title: RackMC Open Beta Update 1
 authors: [hyp3r7]
 tags: [update, website]
 ---
