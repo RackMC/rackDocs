@@ -2,7 +2,7 @@
 slug: openbetaupdate2
 title: RackMC Open Beta Update 2
 authors: [hyp3r7]
-tags: [update, website]
+tags: [update, website, beta]
 ---
 
 The RackMC Beta has now been going on for a few days, so I wanted to give you all yet another update of whats been going on. If you find any more issues, make sure to open a ticket in our [discord](https://discord.rackmc.net). 

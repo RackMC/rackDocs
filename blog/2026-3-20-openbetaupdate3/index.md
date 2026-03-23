@@ -2,7 +2,7 @@
 slug: openbetaupdate3
 title: RackMC Open Beta Update 3
 authors: [hyp3r7]
-tags: [update, website]
+tags: [update, website, beta]
 ---
 
 After being down for a couple hours last night, it seems the the server is back up and running with no issues. Here is a list of feature changes and bug fixes since the last post. If you find any more issues, make sure to open a ticket in our [discord](https://discord.rackmc.net). 

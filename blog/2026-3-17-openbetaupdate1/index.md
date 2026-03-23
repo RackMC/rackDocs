@@ -2,7 +2,7 @@
 slug: openbetaupdate1
 title: RackMC Open Beta Update 1
 authors: [hyp3r7]
-tags: [update, website]
+tags: [update, website, beta]
 ---
 
 After the first day of the RackMC open beta, we have been able to find and fix many issues. I just wanted to make this quick post to let you all know of the known issues, fixes we have made, and major changes to the network. If you find any more issues, make sure to open a ticket in our [discord](https://discord.rackmc.net). 
