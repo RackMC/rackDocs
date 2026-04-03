@@ -61,7 +61,7 @@ const sidebars = {
         slug: '/Creative',
       },
       items: ['Creative/creative-basics'],
-    },
+    }
   ],
 };
 
