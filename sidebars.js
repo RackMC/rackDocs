@@ -38,7 +38,7 @@ const sidebars = {
         description: 'Documentation for the Factions server',
         slug: '/Factions',
       },
-      items: ['Factions/factions-basics', 'Factions/factions-getting-started', 'Factions/factions-commands', 'Factions/factions-powerranking'],
+      items: ['Factions/factions-basics', 'Factions/factions-getting-started', 'Factions/factions-commands', 'Factions/factions-ranking'],
     },
     {
       type: 'category',
