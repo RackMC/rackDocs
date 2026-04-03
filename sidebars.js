@@ -35,21 +35,10 @@ const sidebars = {
       link: {
         type: 'generated-index',
         title: 'Factions Documentation',
-        description: 'Documentaion for the factions server',
+        description: 'Documentation for the factions server',
         slug: '/Factions',
       },
-      items: ['Factions/factions-starting', 'Factions/factions-commands', 'Factions/factions-powerranking'],
-    },
-    {
-      type: 'category',
-      label: 'Creative',
-      link: {
-        type: 'generated-index',
-        title: 'Creative Documentation',
-        description: 'Documentaion for the creative server',
-        slug: '/Creative',
-      },
-      items: ['Creative/creative-basics'],
+      items: ['Factions/factions-basics', 'Factions/factions-getting-starting', 'Factions/factions-commands', 'Factions/factions-powerranking'],
     },
     {
       type: 'category',
@@ -61,6 +50,17 @@ const sidebars = {
         slug: '/Lands',
       },
       items: ['Lands/lands-basics', 'Lands/lands-getting-started', 'Lands/lands-subareas', 'Lands/lands-rent', 'Lands/lands-nations', 'Lands/lands-wars', 'Lands/lands-commands', 'Lands/lands-jobs', 'Lands/lands-chestshops', 'Lands/lands-rtp', 'Lands/lands-mcmmo', 'Lands/lands-pvp', 'Lands/lands-auction', 'Lands/lands-brewery', 'Lands/lands-imageframe', 'Lands/lands-elevators'],
+    },
+    {
+      type: 'category',
+      label: 'Creative',
+      link: {
+        type: 'generated-index',
+        title: 'Creative Documentation',
+        description: 'Documentaion for the creative server',
+        slug: '/Creative',
+      },
+      items: ['Creative/creative-basics'],
     },
   ],
 };

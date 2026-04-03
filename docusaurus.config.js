@@ -119,8 +119,8 @@ const config = {
                 href: 'https://discordapp.com/invite/PyeT9Dk2Dp',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/rackmcnetwork',
+                label: 'X',
+                href: 'https://x.com/rackmcnetwork',
               },
             ],
           },

@@ -12,7 +12,7 @@ The RackMC Lands server is a community-driven experience where players can prote
 
 Some features of our server include:
 
-1. **40k Block World Border**
+1. **25k Block World Border**
 2. [**Browser Map**](https://lands.rackmc.net)
 3. [**Jobs**](https://rackmc.net/docs/Lands/lands-jobs)
 4. [**Chest Shops**](https://rackmc.net/docs/Lands/lands-chestshops)

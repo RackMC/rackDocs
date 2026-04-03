@@ -9,3 +9,5 @@ slug: factions-powerranking
 In this section you will:
 - learn how our Factions ranking system works
 - 
+
+**This page is a work in progress!**
