@@ -42,7 +42,7 @@ We have some other commands that may be useful:
 ### Prizes
 Since this version of the server is bound to have some bugs and issues, we will not be offering a monetary prize for the top factions at the end of the 30 days like we plan to for the full release. Instead we will be offering a special tag for the top 3 factions and **Netherite Rank** for the #1 faction (players who already purchased the Netherite Rank will recieve a code to give to a friend). 
 
-*Note: Since we have not officially released any ranks as of yet, you will receive it now (with minimal to no features) and keep until 90 days after the server launch.*
+*Note: Since the server is still an Open Beta, ranks may not have all features that we plan to release at launch. You may receive a rank with little to no perks at this time, but they will be added later.*
 
 ## Why a Playtest?
 We feel the server is in a pretty good state in terms of features and balancing, so this playtest is primarily meant to help stress test the server and make sure everything functions properly with a decent playerbase. We want to make sure that the server is in a good state at launch so it is fair and fun for everyone.
@@ -61,4 +61,4 @@ At the end of the 30 days the Factions server will close until the server offici
 While we believe the server is in very good shape for this playtest, it is still a playtest. There are bound to be bugs, exploits, downtime, and other issues over the course of the 30 days. Features may be added or removed at any time. If you find any bugs, exploits, or other issues, make sure to open a ticket in our [discord](https://discord.rackmc.net). 
 
 ## TLDR
-Factions Season 0 playtest will run from April 10th at 6pm to May 8th at 6pm. The goal is to create a faction and work your way to `/f top` by the end of the playtest. Top 3 factions will recieve a tag and each member of the #1 faction will get a code for 90 days of Iron Rank on the server launch. The server is close to bug free and balanced, but there may still be issues and downtime. At the end of the playtest, there will be a wipe and Season 1 will start when RackMC officially launches.
+Factions Season 0 playtest will run from April 10th at 6pm to May 8th at 6pm. The goal is to create a faction and work your way to `/f top` by the end of the playtest. Top 3 factions will recieve a tag and each member of the #1 faction will get a code for Netherite Rank to redeem on our store. The server is close to bug free and balanced, but there may still be issues and downtime. At the end of the playtest, there will be a wipe and Season 1 will start when RackMC officially launches.
