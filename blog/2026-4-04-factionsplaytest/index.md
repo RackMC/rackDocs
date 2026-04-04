@@ -12,7 +12,7 @@ We are happy to announce that we will be running the RackMC Factions Playtest st
 The Factions server will be up for 30 days. In that time, your goal is to create a faction, invite your friends, and become the top faction on the server. You do this by raiding other bases, collecting money and spawners, and defending your base. Top factions are determined by total faction value shown in `/f top` at the end of the playtest on **May 9th at 6PM EST**.
 
 ### Pay to Win?
-One thing we pride ourselves on is being **100% not pay to win**. Especially now, we have no ranks available, so there is no way to pay to win. Once we do have ranks available, we will never offer any feature that will give any sort of advantage to players that purchase them on any of our servers. Our planned ranks are meant to be a donation to the server with some perks instead of a way to buy a competitive edge against other players.
+One thing we pride ourselves on is being **100% not pay to win**. We will never offer any feature that will give any sort of advantage to players that purchase them on any of our servers. Our planned ranks are meant to be a donation to the server with some perks instead of a way to buy a competitive edge against other players.
 
 ### Factions Basics
 Our Factions server features a 15k x 15k world border, an 800x800 warzone, and a safe zone at spawn.
