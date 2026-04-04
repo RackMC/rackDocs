@@ -1,8 +1,8 @@
 ---
-id: factions-powerranking
+id: factions-ranking
 title: Power & Ranking
 description: Learn how our Factions ranking system works!
-slug: factions-powerranking
+slug: factions-ranking
 ---
 
 # Factions Ranking
