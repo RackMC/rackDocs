@@ -1,6 +1,6 @@
 ---
 slug: donatorranks
-title: RackMC Donator Ranks
+title: Donator Ranks
 authors: [hyp3r7]
 tags: [update, beta, ranks]
 ---

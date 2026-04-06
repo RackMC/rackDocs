@@ -1,6 +1,6 @@
 ---
 slug: openbetaweek4
-title: RackMC Open Beta Week 4 Update
+title: Open Beta Week 4 Update
 authors: [hyp3r7]
 tags: [update, website, beta]
 ---

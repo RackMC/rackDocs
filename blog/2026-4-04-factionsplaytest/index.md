@@ -1,6 +1,6 @@
 ---
 slug: factionsplaytest
-title: RackMC Factions Season 0 Playtest
+title: Factions Season 0 Playtest
 authors: [hyp3r7]
 tags: [update, factions, website, beta]
 ---
