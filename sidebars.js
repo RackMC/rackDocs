@@ -60,7 +60,7 @@ const sidebars = {
         description: 'Documentaion for the Creative server',
         slug: '/Creative',
       },
-      items: ['Creative/creative-basics'],
+      items: ['Creative/creative-basics', 'Creative/creative-getting-started', 'Creative/creative-commands'],
     },
   ],
 };

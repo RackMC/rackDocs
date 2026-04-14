@@ -10,6 +10,7 @@ In this section you will learn how the RackMC Lands server works!
 
 The RackMC Lands server is a community-driven experience where players can protect their creations, collaborate, and thrive. Utilizing the Lands plugin, players can effortlessly claim and secure their territory, safeguarding it from griefing and theft. With a user-friendly GUI and friendly server members, our focus remains on fostering player interaction, ensuring the simplicity of gameplay, and pushing the boundless creativity of building, rather than competitive gameplay or pvp. Join us to embark on a journey of exploration, cooperation, and endless possibilities in crafting your own empire!
 
+# Features
 Some features of our server include:
 
 1. **25k Block World Border**

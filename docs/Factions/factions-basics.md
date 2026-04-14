@@ -12,6 +12,7 @@ The RackMC Factions server is a competitive PvP experience focused on strategy, 
 
 Each Factions Season lasts 30 days, giving players a limited window to grow their faction and compete for a place at the top. At the end of the season, the top 3 factions will be rewarded from a prize pool that will be announced at the beginning of each season.
 
+# Features
 Some features of our server include:
 
 1. **25k Block World Border**
