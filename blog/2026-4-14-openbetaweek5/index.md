@@ -5,7 +5,7 @@ authors: [hyp3r7]
 tags: [update, website, beta]
 ---
 
-Week 5 of the RackMC Open Beta is here  (one day late). A lot has happened over the past week.
+Week 5 of the RackMC Open Beta is here (one day late). A lot has happened over the past week.
 
 For those who missed it, the Factions Season 0 playtest has been postponed until **Friday, April 17th @ 6pm EST**. It will still last 30 days, ending on May 15th. We hope to have Lands and Creative back up over the next couple of days.
 
