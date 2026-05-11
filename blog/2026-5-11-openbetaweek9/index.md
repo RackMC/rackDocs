@@ -23,7 +23,7 @@ Here is a list of what has happened over the past week, as well as any planned c
 - Chat now shows player's faction in hover text
 - `/pay` now works
 - Diamond blocks now add more value to factions top list
-- `/sell gui` can now be used as an easier way to sell your items
+- `/sellgui` can now be used as an easier way to sell your items
 
 ## Known Issues
 ### Network
