@@ -21,8 +21,9 @@ Here is a list of what has happened over the past week, as well as any planned c
 ### Factions
 - Silk touch now works on spawners
 - Chat now shows player's faction in hover text
-- /pay now works
+- `/pay` now works
 - Diamond blocks now add more value to factions top list
+- `/sell gui` can now be used as an easier way to sell your items
 
 ## Known Issues
 ### Network
@@ -35,5 +36,5 @@ Here is a list of what has happened over the past week, as well as any planned c
 - The MCMMO Mining skill levels up too quickly (This will be fixed on the full release)
 ### Factions
 - Some versions have issues connecting (Should be mostly fixed)
-- /f home does not work
-- /baltop does not work
+- `/f home` does not work
+- `/baltop` does not work
