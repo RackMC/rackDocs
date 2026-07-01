@@ -1,6 +1,6 @@
 ---
 slug: openbetamonth5
-title: Open Beta Month 5
+title: Open Beta Month 5 Update
 authors: [hyp3r7]
 tags: [update, website, beta]
 ---
